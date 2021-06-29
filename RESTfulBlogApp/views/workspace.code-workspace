@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\intro to commad line"
+		},
+		{
+			"path": "..\\..\\..\\yelpcamp"
+		},
+		{
+			"path": "..\\..\\..\\Databases"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
